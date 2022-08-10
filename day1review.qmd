@@ -1,0 +1,223 @@
+---
+title: "Welcome to Math 1060!"
+author: "Instructor Katherine Cliff"
+format: 
+  revealjs:
+    controls: true
+    chalkboard: true
+    multiplex: true
+    pdfexport: true
+    incremental: true
+    transition: slide	
+    css: styles.css
+---
+
+## Join this presentation
+<center>
+<img src="qr.png">
+https://www.precalcandtrig.net/lectures22/day1review.html
+</center>
+
+## To access course content
+
+- Go to [Canvas](https://canvas.uccs.edu) and login to our course.
+- Click on the "Click here first to enroll in MyOpenMath (free!)" link.
+- ![](mom.JPG)
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes
+- Exams (3)
+- Final
+:::
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes: 20%
+- Exams (3)
+- Final
+:::
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes: 20%
+- Exams (3): 50%
+- Final
+:::
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes: 20%
+- Exams (3): 50%
+- Final: 30%
+:::
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes: 20%
+- Exams (3): 50%
+- Final: 30%
+:::
+
+<center> If your in-person Final Exam score is higher than your weighted average, your final grade will be the final exam score.</center>
+
+## Other Requirements and Recommendations
+- Calculator: scientific only (you can use [desmos.com/scientific](https://desmos.com/scientific)
+- Bring a device to class that can connect to the internet (phone, tablet, laptop, etc).
+- Textbook & online homework system are FREE!
+  - You can purchase a hard copy of the text if you really want to [here](https://www.lulu.com/shop/-stitz-zeager-and-openstax-and-katherine-cliff/trigonometry/paperback/product-r9wpvn.html?page=1&pageSize=4). 
+- Materials recommendations:
+	- 1 notebook for notes, 1 notebook for homework
+	
+## Prerequisite Review! {auto-animate=true} 
+Expand and Simplify $(2x - 6)^2$.
+
+::: columns
+::: {.column width="50%"}
+A. $4x^2+36$
+
+B. $4x^2 - 24x + 36$
+
+C. $2x^2 + 36$
+
+D. $2x^2 - 12x + 18$
+:::
+
+::: {.column width="50%"}
+
+<iframe src = "https://www.menti.com/9444y4bf85" width = 100% height = 1000 px></iframe>
+
+:::
+:::
+
+## Prerequisite Review! {auto-animate=true} 
+Expand and Simplify $(2x - 6)^2$.
+
+::: columns
+::: {.column width="50%"}
+A. $4x^2+36$
+
+B. $4x^2 - 24x + 36$
+
+C. $2x^2 + 36$
+
+D. $2x^2 - 12x + 18$
+:::
+
+::: {.column width="50%"}
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/27a21ed052378cf412c248323e62c61f/76a3376ea3b7/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+:::
+:::
+
+## Prerequisite Review! {auto-animate=true} 
+Expand and Simplify $(9x^2 - 16)^{1/2}$.
+
+::: columns
+::: {.column width="50%"}
+A. $3x - 4$
+
+B. $3x + 4, 3x - 4$
+
+C. $3x + 4$
+
+D. Not possible
+:::
+
+::: {.column width="50%"}
+
+<iframe src = "https://www.menti.com/hqsxmiqpdd" width = 100% height = 1000 px></iframe>
+
+:::
+:::
+
+## Prerequisite Review! {auto-animate=true} 
+Expand and Simplify $(9x^2 - 16)^{1/2}$.
+
+::: columns
+::: {.column width="50%"}
+A. $3x - 4$
+
+B. $3x + 4, 3x - 4$
+
+C. $3x + 4$
+
+D. Not possible
+:::
+
+::: {.column width="50%"}
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/ad5eb2143660fb23245ce9aece98af1c/efd6cdded4b7/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+:::
+:::
+
+## Prerequisite Review! {auto-animate=true} 
+Expand and Simplify $(\sqrt{a}+\sqrt{b})(\sqrt{a}-\sqrt{b})$.
+
+::: columns
+::: {.column width="50%"}
+A. $a^2 - b^2$
+
+B. $a-b$
+
+C. $a-2ab-b$
+
+D. $a-2\sqrt{ab}-b$
+:::
+
+::: {.column width="50%"}
+
+<iframe src = "https://www.menti.com/38b3aqfjmd" width = 100% height = 1000 px></iframe>
+
+:::
+:::
+
+## Prerequisite Review! {auto-animate=true} 
+Expand and Simplify $(\sqrt{a}+\sqrt{b})(\sqrt{a}-\sqrt{b})$.
+
+::: columns
+::: {.column width="50%"}
+A. $a^2 - b^2$
+
+B. $a-b$
+
+C. $a-2ab-b$
+
+D. $a-2\sqrt{ab}-b$
+:::
+
+::: {.column width="50%"}
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/ca6ecd9d58c55b69e70ae3ee5bf7ba05/7e4b6dc10901/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+:::
+:::
+
+## Prerequisite Review! MyOpenMath
+<iframe src = "https://www.myopenmath.com/assess2/?cid=149285&aid=10903126" width = 100% height = 1000 px></iframe>
+
+## Expand and Simplify: $5(4x)^2$
+
+## Factor $9x^2 - 16$
+
+## Factor $4(3x-2) + x(3x-2)$.
+
+## Factor $7x^2 - 3x - 10$
+
+## Factor $x^4 y - 16x^2 y$
+
+## Combine and simplify completely $\frac{3}{x+1}-\frac{4}{x}+1$
+
+## Combine and simplify completely $\frac{\frac{y}{x}-\frac{x}{y}}{\frac{1}{y}-\frac{1}{x}$
+
+## Find all real solutions $|10x+8|=108$
+
+## Find all real solutions $-2+81x^2=7$
+
+## Find all real solutions $x^2 = 3x$
+
+## Find all real solutions $x^2+15=8x$
+
+
