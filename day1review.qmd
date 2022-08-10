@@ -15,7 +15,8 @@ format:
 ## Join this presentation
 <center>
 <img src="qr.png">
-https://www.precalcandtrig.net/lectures22/day1review.html
+
+https://kmcliff.github.io/day1review.html
 </center>
 
 ## To access course content
