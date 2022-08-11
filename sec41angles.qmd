@@ -18,7 +18,7 @@ format:
 <img src="">
 
 https://kmcliff.github.io/sec41angles.html
-</center>
+</center> 
 
 # Housekeeping
 ::: {.nonincremental}
@@ -68,35 +68,85 @@ Convert $\frac{\pi}{4}$ to degrees
 ::: columns
 ::: {.column width="50%"}
 A. $60^\circ$ to radians
-<br><br>
-<br><br>
-<br><br>
 
+B. $\frac{3\pi}{2}$ to degrees
 
-B. $460^\circ$ to radians
-<br><br>
-<br><br>
-<br><br>
-
-
+<iframe src = "https://www.myopenmath.com/assess2/?cid=149285&aid=10930890" width = 100% height = 400px></iframe>
 
 :::
 
+::: {.column width="20%"}
+:::
+
+::: {.column width="30%"}
+<iframe src = "https://desmos.com/scientific" width = 100% height = 400 px></iframe>
+desmos.com/scientific
+:::
+:::
+
+## You try: convert
+
+::: columns
 ::: {.column width="50%"}
-C. $\frac{3\pi}{2}$ to degrees
+A. $60^\circ$ to radians
 <br><br>
 <br><br>
 <br><br>
 
+B. $\frac{3\pi}{2}$ to degrees
+<br><br>
+<br><br>
+<br><br>
+:::
 
+::: {.column width="20%"}
+:::
 
-D. $\frac{11\pi}{4}$ to degrees
+::: {.column width="30%"}
+<iframe src = "https://desmos.com/scientific" width = 100% height = 400 px></iframe>
+desmos.com/scientific
+:::
+:::
+
+# You try: convert
+
+::: columns
+::: {.column width="50%"}
+C. $\frac{11\pi}{4}$ to degrees
+
+D. $460^\circ$ to radians
+
+<iframe src = "https://www.myopenmath.com/assess2/?cid=149285&aid=10930890" width = 100% height = 400px></iframe>
+:::
+::: {.column width="20%"}
+:::
+
+::: {.column width="30%"}
+<iframe src = "https://desmos.com/scientific" width = 100% height = 400 px></iframe>
+desmos.com/scientific
+:::
+:::
+
+## You try: convert
+
+::: columns
+::: {.column width="50%"}
+C. $\frac{11\pi}{4}$ to degrees
 <br><br>
 <br><br>
 <br><br>
 
+D. $460^\circ$ to radians
+<br><br>
+<br><br>
+<br><br>
+:::
+::: {.column width="20%"}
+:::
 
-
+::: {.column width="30%"}
+<iframe src = "https://desmos.com/scientific" width = 100% height = 400 px></iframe>
+desmos.com/scientific
 :::
 :::
 
@@ -118,7 +168,33 @@ D. $\frac{11\pi}{4}$ to degrees
 ## Examples: Find the smallest, positive, coterminal angle.
 
 ::: columns
+::: {.column width="80%"}
+::: columns
 ::: {.column width="50%"}
+A. $900^\circ$            
+C. $-\frac{13\pi}{6}$     
+:::
+
+::: {.column width="50%"}
+B. $-430^\circ$
+
+D. $\frac{11\pi}{4}$
+:::
+:::
+
+<iframe src = "https://www.myopenmath.com/assess2/?cid=149285&aid=10930890" width = 100% height = 400px></iframe>
+:::
+
+::: {.column width="20%"}
+<iframe src = "https://desmos.com/scientific" width = 100% height = 400 px></iframe>
+desmos.com/scientific
+:::
+:::
+
+## Examples: Find the smallest, positive, coterminal angle.
+
+::: columns
+::: {.column width="80%"}
 A. $900^\circ$
 <br><br>
 <br><br>
@@ -127,9 +203,19 @@ B. $-430^\circ$
 <br><br>
 <br><br>
 <br><br>
+
 :::
 
-::: {.column width="50%}
+::: {.column width="20%"}
+<iframe src = "https://desmos.com/scientific" width = 100% height = 400 px></iframe>
+desmos.com/scientific
+:::
+:::
+
+## Examples: Find the smallest, positive, coterminal angle.
+
+::: columns
+::: {.column width="80%"}
 C. $-\frac{13\pi}{6}$
 <br><br>
 <br><br>
@@ -138,6 +224,12 @@ D. $\frac{11\pi}{4}$
 <br><br>
 <br><br>
 <br><br>
+
+:::
+
+::: {.column width="20%"}
+<iframe src = "https://desmos.com/scientific" width = 100% height = 400 px></iframe>
+desmos.com/scientific
 :::
 :::
 
@@ -192,3 +284,147 @@ B. $\theta = \frac{\pi}{6}$, $r = 6$ yd
 
 ## Example: Find the sector area given the central angle and radius:
 B. $\theta = \frac{\pi}{6}$, $r = 6$ yd
+
+# Angular speed
+::: columns
+
+::: {.column width="50%"}
+<img src = "angular.webp">
+:::
+
+::: {.column width="50%"}
+- Natalia's angular speed describes how fast she's spinning.
+- Measured in units like "revolutions per minutes" or "rotations per second", etc.
+    - angle measure per time
+:::
+
+:::
+
+# Linear speed
+::: columns
+
+::: {.column width="50%"}
+<img src = "linear.gif">
+<img src = "discus.gif">
+:::
+
+::: {.column width="50%"}
+- Linear speed describes how fast a spinning object is moving in a straight line.
+- Linear speed also describes how fast an object on the edge of our circle would travel if we suddenly let go.
+:::
+
+:::
+
+# How do angular and linear speed relate?
+
+<center><u>Big idea:</u></center>
+$$v = \omega r$$
+- v is linear speed (distance per time)
+- $\omega$ ("omega") is angular speed 
+  - $\omega$ must be in radians per time
+- r is radius
+  - radius units should match distance units in linear speed
+
+## Example
+A bicycle with 24-inch diameter wheels is traveling at 15 mi/h. Find the angular speed of the wheels in rad/min. How many revolutions per minute do the wheels make?
+
+<center>
+<iframe src = "https://www.menti.com/f2jp7yt8tv" width = 100% height = 500 px></iframe>
+</center>
+
+## 
+A bicycle with 24-inch diameter wheels is traveling at 15 mi/h. Find the angular speed of the wheels in rad/min. How many revolutions per minute do the wheels make?
+<center>
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/dfa838c731f56f3d261a1a83f50a1b2d/e164db8e6c7d/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+</center>
+
+## 
+A bicycle with 24-inch diameter wheels is traveling at 15 mi/h. Find the angular speed of the wheels in rad/min. How many revolutions per minute do the wheels make?
+
+##
+
+# Example
+A car with 8.5 inch radius wheels is traveling at 25 ft/sec.  How many revolutions per minute do the wheels make?
+<center>
+<iframe src = "https://www.menti.com/52hdfpud9x" width = 100% height = 400 px></iframe>
+</center>
+
+##
+A car with 8.5 inch radius wheels is traveling at 25 ft/sec.  How many revolutions per minute do the wheels make?
+<center>
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/2a0045a1ba20cd04b8bb607e984135fa/3d2a2eca4c3d/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+</center>
+
+##
+A car with 8.5 inch radius wheels is traveling at 25 ft/sec.  How many revolutions per minute do the wheels make? Give your final answer accurate to 3 decimal places.
+
+::: columns
+::: {.column width="50%"}
+<iframe src="https://desmos.com/scientific" width = "100%" height = 400 px></iframe>
+:::
+
+::: {.column width="50%"}
+<iframe src = "https://www.menti.com/uw321qhtqr" width = "100%" height = 400 px></iframe>
+:::
+:::
+
+##
+A car with 8.5 inch radius wheels is traveling at 25 ft/sec.  How many revolutions per minute do the wheels make? Give your final answer accurate to 3 decimal places.
+
+::: columns
+::: {.column width="50%"}
+<iframe src="https://desmos.com/scientific" width = "100%" height = 400 px></iframe>
+:::
+
+::: {.column width="50%"}
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/0b2f570c462879db84176eb3b328ab7d/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+:::
+:::
+
+
+##
+A car with 8.5 inch radius wheels is traveling at 25 ft/sec.  How many revolutions per minute do the wheels make? Give your final answer accurate to 3 decimal places.
+
+::: columns
+::: {.column width="30%"}
+<iframe src="https://desmos.com/scientific" width = "100%" height = 400 px></iframe>
+:::
+
+::: {.column width="50%"}
+
+:::
+:::
+
+# Example
+A gear of radius 9 cm spins one revolution in 17 seconds.
+What is the angular velocity of the gear (in rad/sec)?
+<br><br>
+<br><br>
+<br><br>
+A speck of dust flings off the edge of the wheel. What is its linear velocity?
+<br><br>
+<br><br>
+<br><br>
+
+# Example
+A CD has diameter of 120 millimeters. When playing audio, the angular speed varies to keep the linear speed constant where the disc is being read. When reading along the outer edge of the disc, the angular speed is about 200 RPM (revolutions per minute). Find the linear speed. Give your answer accurate to two decimal places.
+<iframe src = "https://www.menti.com/2wdjg2gp6h" width = "100%" height = 400 px></iframe>
+
+##
+A CD has diameter of 120 millimeters. When playing audio, the angular speed varies to keep the linear speed constant where the disc is being read. When reading along the outer edge of the disc, the angular speed is about 200 RPM (revolutions per minute). Find the linear speed. Give your answer accurate to two decimal places.
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/68e14139d4c399863a3050005b87b2dd/22bad76dbf7b/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
+##
+A CD has diameter of 120 millimeters. When playing audio, the angular speed varies to keep the linear speed constant where the disc is being read. When reading along the outer edge of the disc, the angular speed is about 200 RPM (revolutions per minute). Find the linear speed. Give your answer accurate to two decimal places.
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
