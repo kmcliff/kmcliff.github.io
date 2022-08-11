@@ -15,10 +15,10 @@ format:
 
 # Join this presentation
 <center>
-<img src="">
+<img src="/img/qrsec41.png">
 
 https://kmcliff.github.io/sec41angles.html
-</center> 
+</center>  
 
 # Housekeeping
 ::: {.nonincremental}
@@ -43,7 +43,7 @@ Academic honesty
 
 ##
 
-<img src= "radians.gif">
+<img src= "/img/radians.gif">
 
 # Converting from degrees to radians
 
@@ -289,7 +289,7 @@ B. $\theta = \frac{\pi}{6}$, $r = 6$ yd
 ::: columns
 
 ::: {.column width="50%"}
-<img src = "angular.webp">
+<img src = "img/angular.webp">
 :::
 
 ::: {.column width="50%"}
@@ -304,8 +304,8 @@ B. $\theta = \frac{\pi}{6}$, $r = 6$ yd
 ::: columns
 
 ::: {.column width="50%"}
-<img src = "linear.gif">
-<img src = "discus.gif">
+<img src = "img/linear.gif">
+<img src = "img/discus.gif">
 :::
 
 ::: {.column width="50%"}
@@ -317,7 +317,7 @@ B. $\theta = \frac{\pi}{6}$, $r = 6$ yd
 
 # How do angular and linear speed relate?
 
-<center><u>Big idea:</u></center>
+<center><u>Big idea:</u></center> 
 $$v = \omega r$$
 - v is linear speed (distance per time)
 - $\omega$ ("omega") is angular speed 

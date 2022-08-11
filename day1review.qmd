@@ -14,7 +14,7 @@ format:
 
 ## Join this presentation
 <center>
-<img src="qr.png">
+<img src="/img/qr.png">
 
 https://kmcliff.github.io/day1review.html
 </center>
@@ -23,7 +23,7 @@ https://kmcliff.github.io/day1review.html
 
 - Go to [Canvas](https://canvas.uccs.edu) and login to our course.
 - Click on the "Click here first to enroll in MyOpenMath (free!)" link.
-- ![](mom.JPG)
+- ![](/img/mom.JPG)
 
 ## Grades {auto-animate=true}
 ::: {.nonincremental}
