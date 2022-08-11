@@ -1,0 +1,142 @@
+---
+title: "Welcome to Calc 1!"
+format: 
+  revealjs:
+    controls: true
+    chalkboard: true
+    multiplex: true
+    pdfexport: true
+    incremental: true
+    transition: slide	
+    css: styles.css.
+    navigation-mode: vertical
+---
+
+## Join this presentation
+<center>
+<img src="/img/qr4day1.png">
+
+https://kmcliff.github.io/13504day1.html
+</center>
+
+## To access course content
+
+- Go to [Canvas](https://canvas.uccs.edu) and login to our course.
+- Click on the "Click here first to enroll in MyOpenMath (free!)" link.
+- ![](/img/mom.JPG)
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes
+- Exams (3)
+- Final
+:::
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes: 20%
+- Exams (3)
+- Final
+:::
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes: 20%
+- Exams (3): 50%
+- Final
+:::
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes: 20%
+- Exams (3): 50%
+- Final: 30%
+:::
+
+## Grades {auto-animate=true}
+::: {.nonincremental}
+- Homework/Attendance/Quizzes: 20%
+- Exams (3): 50%
+- Final: 30%
+:::
+
+<center> If your in-person Final Exam score is higher than your weighted average, your final grade will be the final exam score.</center>
+
+## Other Requirements and Recommendations
+- Bring a device to class that can connect to the internet (phone, tablet, laptop, etc).
+- Textbook & online homework system are FREE!
+  - You <i>may</i> purchase the recommended Stewart <i>Essential Calculus</i>, Early Transcendentals, second edition, but you do not have to for this class.
+- Materials recommendations:
+	- 1 notebook for notes, 1 notebook for homework
+	
+## Homework
+- Online through MyOpenMath
+- 10 tries per question, no penalty
+- A few written questions for which you upload work
+- Message the Instructor!
+
+## Calculators
+- In general, not allowed!
+- If allowed on homework, calculator will be embedded.
+- Never allowed on exams.
+	
+## Prerequisite Review!
+<iframe src="https://www.myopenmath.com/assess2/?cid=148290&aid=10577810" width = 100% height = 600px></iframe>
+
+## Expand and simplify $(-3x+4)^2$.
+
+## Simplify if possible $\frac{-3x}{-2x^4-x}$
+
+## Simplify if possible $\frac{x-3}{x+1}$
+
+## Which of the following is equivalent to $\frac{1}{9x^4}-\frac{4}{\sqrt{x}}+7\sqrt{x}$?
+A. $\frac19 x^{-4}-4x^{-1/2}+7x^{1/2}$
+
+B. $\frac19 x^{-4}-4x^{1/2}+7x^{-1/2}$
+
+C. $9x^{-4}-4x^{-1/2}+7x^{1/2}$
+
+D. $9x^4 +4x^{1/2}+7x^{2/1}$
+
+## Simplify $\frac{x\left(\frac{1}{x^{1/2}}\right)}{2x^5}$
+ 
+## Simplify $\frac{\sqrt{x^3}+5x}{\sqrt{x}}$
+
+## The plot below represents the function $f(x)$. Evaluate $f(3)$.
+<center>
+<img src="img/pgraph.JPG" width = 40% height = 40%>
+</center>
+
+## When $f(x) = 9x^2+5x-4$, evaluate $f(-2)$.
+
+## For the function $f(x) = 4x^2 - 5x$, evaluate and simplify...
+$$\frac{f(x+h)-f(x)}{h}$$
+
+## Evaluate the following piecewise function:
+
+$$f(x) = \begin{cases}
+ x^2 & \text{if } x\leq 2\\
+ x+7 & \text{if } 2 < x \leq 5\\
+ -x & \text{if } x > 5
+ \end{cases}$$
+a. f(0) = 
+<br><br><br>
+b. f(5) = 
+
+## Evaluate each of the following exactly:
+::: columns
+::: {.column width="30%"}
+$$\cos(0) = $$
+$$\sin\left(\frac{\pi}{2}\right) = $$
+$$\tan\left(\frac{\pi}{4}\right) = $$
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
+$$\sin\left(\frac{\pi}{6}\right) = $$
+$$\cos\left(\frac{2\pi}{3}\right) = $$
+:::
+:::
+

@@ -69,6 +69,12 @@ https://kmcliff.github.io/day1review.html
   - You can purchase a hard copy of the text if you really want to [here](https://www.lulu.com/shop/-stitz-zeager-and-openstax-and-katherine-cliff/trigonometry/paperback/product-r9wpvn.html?page=1&pageSize=4). 
 - Materials recommendations:
 	- 1 notebook for notes, 1 notebook for homework
+
+## Homework
+- Online through MyOpenMath
+- 10 tries per question, no penalty
+- A few written questions for which you upload work
+- Message the Instructor!
 	
 ## Prerequisite Review! {auto-animate=true} 
 Expand and Simplify $(2x - 6)^2$.
