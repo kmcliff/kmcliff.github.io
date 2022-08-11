@@ -1,0 +1,194 @@
+---
+title: "Section 4.1: Angles"
+author: "Instructor Katherine Cliff"
+format: 
+  revealjs:
+    controls: true
+    chalkboard: true
+    multiplex: true
+    pdfexport: true
+    incremental: true
+    transition: slide	
+    css: styles.css
+    navigation-mode: vertical
+---
+
+# Join this presentation
+<center>
+<img src="">
+
+https://kmcliff.github.io/sec41angles.html
+</center>
+
+# Housekeeping
+::: {.nonincremental}
+- Online homework
+- Messaging the instructor
+:::
+<iframe src = "https://www.myopenmath.com/course/course.php?folder=0&cid=149285" width = 100% height = 1000 px></iframe>
+
+# Housekeeping
+
+Academic honesty
+
+# Constructing Angles
+<iframe src="https://www.geogebra.org/classic/cV49xRpB?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+## Constructing Angles: conventions
+- If we sweep the terminal side in the ________________ direction, we give the angle a ______________ value.
+
+- If we sweep the terminal side in the ________________ direction, we give the angle a ______________ value.
+
+# What the heck is a radian?
+
+##
+
+<img src= "radians.gif">
+
+# Converting from degrees to radians
+
+<u>Key fact:</u>
+<br><br><br><br><br><br><br>
+So in general:
+
+- $$\text{____ degrees} \cdot \frac{\text{____ radians}}{\text{____ degrees}} = \text{_____ radians}$$
+
+## Example
+Convert $30^\circ$ to radians
+
+# Converting from radians to degrees
+
+$$\text{____} ^\circ \cdot \frac{\text{____ radians}}{\text{____ }^\circ} = \text{_____ radians}$$
+
+## Example 
+Convert $\frac{\pi}{4}$ to degrees
+
+# You try: convert
+
+::: columns
+::: {.column width="50%"}
+A. $60^\circ$ to radians
+<br><br>
+<br><br>
+<br><br>
+
+
+B. $460^\circ$ to radians
+<br><br>
+<br><br>
+<br><br>
+
+
+
+:::
+
+::: {.column width="50%"}
+C. $\frac{3\pi}{2}$ to degrees
+<br><br>
+<br><br>
+<br><br>
+
+
+
+D. $\frac{11\pi}{4}$ to degrees
+<br><br>
+<br><br>
+<br><br>
+
+
+
+:::
+:::
+
+# Coterminal Angles
+
+::: columns
+::: {.column width="80%"}
+<iframe src = "http://www.mathopenref.com/coterminal.html" width = "100%" height = 600px></iframe>
+:::
+
+::: {.column width="20%"}
+<br><br>
+<br><br>
+<br><br>
+:::
+
+:::
+
+## Examples: Find the smallest, positive, coterminal angle.
+
+::: columns
+::: {.column width="50%"}
+A. $900^\circ$
+<br><br>
+<br><br>
+<br><br>
+B. $-430^\circ$
+<br><br>
+<br><br>
+<br><br>
+:::
+
+::: {.column width="50%}
+C. $-\frac{13\pi}{6}$
+<br><br>
+<br><br>
+<br><br>
+D. $\frac{11\pi}{4}$
+<br><br>
+<br><br>
+<br><br>
+:::
+:::
+
+# Arc Length
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+# Sector Area
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+# Example: Find the arc length given the central angle and radius:
+A. $\theta = 27^\circ$, $r = 2.5$ mm 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+## Find the sector area given the central angle and radius:
+A. $\theta = 27^\circ$, $r = 2.5$ mm 
+
+# Example: Find the arc length given the central angle and radius:
+B. $\theta = \frac{\pi}{6}$, $r = 6$ yd
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+## Example: Find the sector area given the central angle and radius:
+B. $\theta = \frac{\pi}{6}$, $r = 6$ yd
